@@ -1,3 +1,17 @@
+
+# Instructions for running code 
+
+Singal/Code is for downloading and contructing signal data directly from WRDS, which requires ODBC connection to WRDS. Instead, we can download the data directly . Then the procedures for running the portfolios/code are :  
+
+1.  Download two data files from [here](https://drive.google.com/drive/folders/1Db2h5O1OVpX_jMrdD7E78GaeOebk2qTM) and put them in 'Signal/data/', which require you create a new file /data under 'Signal'.  
+2.  Run 'master.R' under 'Portfolio/Code/' 
+
+
+
+
+
+# Readme from the original paper 
+
 # Open source cross sectional asset pricing
 
 This repo accompanies our paper:
